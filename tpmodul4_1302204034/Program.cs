@@ -29,7 +29,7 @@ namespace tpmodul4_1302204034
         }
         public void PrintData()
         {
-            Console.WriteLine("Data yang tersimpan adalah: " + this.data);
+            Console.WriteLine("Data yang tersimpan adalah " + this.data);
         }
     }
 
