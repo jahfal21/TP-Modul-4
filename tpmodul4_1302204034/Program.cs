@@ -10,8 +10,7 @@ namespace tpmodul4_1302204034
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("tes");
-            DataGeneric<String> data = new DataGeneric<string>("1302204024");
+            DataGeneric<String> data = new DataGeneric<string>("1302204034");
             data.PrintData();
 
             HaloGeneric<string> halo = new HaloGeneric<string>();
