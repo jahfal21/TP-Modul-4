@@ -10,7 +10,6 @@ namespace tpmodul4_1302204034
     {
         static void Main(string[] args)
         {
-            //Console.Write("tes");
             HaloGeneric<string> halo = new HaloGeneric<string>();
             //String x = Console.ReadLine();
             String x = "Jahfal Mudrik Ramadhan!";
